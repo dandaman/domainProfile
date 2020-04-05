@@ -1,0 +1,951 @@
+
+<svg height="989" width="860" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g />
+	<g>
+		<g>
+			<g>
+				<line id="1-50-15" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="513" y1="15" y2="15" />
+				<line id="2-50-15" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="15" y2="11" />
+				<line id="3-50-15" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="15" y2="19" />
+				<line id="4-513-15" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="513" x2="509" y1="15" y2="11" />
+				<line id="5-513-15" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="513" x2="509" y1="15" y2="19" />
+				<line id="6-206-11" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="206" x2="206" y1="11" y2="19" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="7-197-18" x="197" y="27">100</text>
+				<line id="8-363-11" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="363" x2="363" y1="11" y2="19" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="9-354-18" x="354" y="27">200</text>
+				<line id="10-64-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="64" x2="64" y1="13" y2="17" />
+				<line id="11-80-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="80" x2="80" y1="13" y2="17" />
+				<line id="12-96-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="96" x2="96" y1="13" y2="17" />
+				<line id="13-111-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="111" x2="111" y1="13" y2="17" />
+				<line id="14-127-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="127" x2="127" y1="13" y2="17" />
+				<line id="15-143-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="143" x2="143" y1="13" y2="17" />
+				<line id="16-159-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="159" x2="159" y1="13" y2="17" />
+				<line id="17-174-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="174" x2="174" y1="13" y2="17" />
+				<line id="18-190-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="190" x2="190" y1="13" y2="17" />
+				<line id="19-222-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="222" x2="222" y1="13" y2="17" />
+				<line id="20-237-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="237" x2="237" y1="13" y2="17" />
+				<line id="21-253-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="253" x2="253" y1="13" y2="17" />
+				<line id="22-269-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="269" x2="269" y1="13" y2="17" />
+				<line id="23-285-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="285" x2="285" y1="13" y2="17" />
+				<line id="24-300-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="300" x2="300" y1="13" y2="17" />
+				<line id="25-316-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="316" x2="316" y1="13" y2="17" />
+				<line id="26-332-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="332" x2="332" y1="13" y2="17" />
+				<line id="27-348-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="348" x2="348" y1="13" y2="17" />
+				<line id="28-379-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="379" x2="379" y1="13" y2="17" />
+				<line id="29-395-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="395" x2="395" y1="13" y2="17" />
+				<line id="30-411-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="411" x2="411" y1="13" y2="17" />
+				<line id="31-426-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="426" x2="426" y1="13" y2="17" />
+				<line id="32-442-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="442" x2="442" y1="13" y2="17" />
+				<line id="33-458-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="458" x2="458" y1="13" y2="17" />
+				<line id="34-474-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="474" x2="474" y1="13" y2="17" />
+				<line id="35-489-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="489" x2="489" y1="13" y2="17" />
+				<line id="36-505-13" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="505" x2="505" y1="13" y2="17" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="37-51--1" x="51" y="8">MIAA_ANAVT</text>
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="38-51--1" x="51" y="8">MIAA_ANAVT</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect height="6" id="39-52-46" style="fill: rgb(46,139,87); fill-opacity: 1.0; stroke: rgb(46,139,87); stroke-opacity: 1.0; stroke-width: 1" width="171" x="52" y="46" />
+				<rect height="6" id="40-52-46" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="171" x="52" y="46" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="41-52-34" x="52" y="40">IPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="42-56-66" style="fill: rgb(0,191,255); fill-opacity: 1.0; stroke: rgb(0,191,255); stroke-opacity: 1.0; stroke-width: 1" width="90" x="56" y="66" />
+				<rect height="6" id="43-56-66" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="90" x="56" y="66" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="44-56-54" x="56" y="60">M1</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="45-58-86" style="fill: rgb(255,255,224); fill-opacity: 1.0; stroke: rgb(255,255,224); stroke-opacity: 1.0; stroke-width: 1" width="33" x="58" y="86" />
+				<rect height="6" id="46-58-86" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="58" y="86" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="47-58-74" x="58" y="80">M16</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="48-91-106" style="fill: rgb(85,107,47); fill-opacity: 1.0; stroke: rgb(85,107,47); stroke-opacity: 1.0; stroke-width: 1" width="65" x="91" y="106" />
+				<rect height="6" id="49-91-106" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="65" x="91" y="106" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="50-91-94" x="91" y="100">M5</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="51-105-86" style="fill: rgb(255,160,122); fill-opacity: 1.0; stroke: rgb(255,160,122); stroke-opacity: 1.0; stroke-width: 1" width="386" x="105" y="86" />
+				<rect height="6" id="52-105-86" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="386" x="105" y="86" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="53-105-74" x="105" y="80">IPPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="54-244-46" style="fill: rgb(122,255,0); fill-opacity: 1.0; stroke: rgb(122,255,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="244" y="46" />
+				<rect height="6" id="55-244-46" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="244" y="46" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="56-244-34" x="244" y="40">M17</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="57-278-66" style="fill: rgb(255,228,225); fill-opacity: 1.0; stroke: rgb(255,228,225); stroke-opacity: 1.0; stroke-width: 1" width="33" x="278" y="66" />
+				<rect height="6" id="58-278-66" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="278" y="66" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="59-278-54" x="278" y="60">M7</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="60-343-46" style="fill: rgb(138,43,226); fill-opacity: 1.0; stroke: rgb(138,43,226); stroke-opacity: 1.0; stroke-width: 1" width="52" x="343" y="46" />
+				<rect height="6" id="61-343-46" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="52" x="343" y="46" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="62-343-34" x="343" y="40">M3</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="63-431-46" style="fill: rgb(128,128,128); fill-opacity: 1.0; stroke: rgb(128,128,128); stroke-opacity: 1.0; stroke-width: 1" width="46" x="431" y="46" />
+				<rect height="6" id="64-431-46" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="46" x="431" y="46" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="65-431-34" x="431" y="40">M4</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<line id="66-50-134" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="526" y1="134" y2="134" />
+				<line id="67-50-134" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="134" y2="130" />
+				<line id="68-50-134" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="134" y2="138" />
+				<line id="69-526-134" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="526" x2="522" y1="134" y2="130" />
+				<line id="70-526-134" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="526" x2="522" y1="134" y2="138" />
+				<line id="71-206-130" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="206" x2="206" y1="130" y2="138" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="72-197-137" x="197" y="146">100</text>
+				<line id="73-363-130" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="363" x2="363" y1="130" y2="138" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="74-354-137" x="354" y="146">200</text>
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="75-512-137" x="512" y="146">300</text>
+				<line id="76-64-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="64" x2="64" y1="132" y2="136" />
+				<line id="77-80-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="80" x2="80" y1="132" y2="136" />
+				<line id="78-96-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="96" x2="96" y1="132" y2="136" />
+				<line id="79-111-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="111" x2="111" y1="132" y2="136" />
+				<line id="80-127-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="127" x2="127" y1="132" y2="136" />
+				<line id="81-143-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="143" x2="143" y1="132" y2="136" />
+				<line id="82-159-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="159" x2="159" y1="132" y2="136" />
+				<line id="83-174-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="174" x2="174" y1="132" y2="136" />
+				<line id="84-190-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="190" x2="190" y1="132" y2="136" />
+				<line id="85-222-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="222" x2="222" y1="132" y2="136" />
+				<line id="86-237-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="237" x2="237" y1="132" y2="136" />
+				<line id="87-253-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="253" x2="253" y1="132" y2="136" />
+				<line id="88-269-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="269" x2="269" y1="132" y2="136" />
+				<line id="89-285-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="285" x2="285" y1="132" y2="136" />
+				<line id="90-300-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="300" x2="300" y1="132" y2="136" />
+				<line id="91-316-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="316" x2="316" y1="132" y2="136" />
+				<line id="92-332-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="332" x2="332" y1="132" y2="136" />
+				<line id="93-348-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="348" x2="348" y1="132" y2="136" />
+				<line id="94-379-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="379" x2="379" y1="132" y2="136" />
+				<line id="95-395-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="395" x2="395" y1="132" y2="136" />
+				<line id="96-411-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="411" x2="411" y1="132" y2="136" />
+				<line id="97-426-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="426" x2="426" y1="132" y2="136" />
+				<line id="98-442-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="442" x2="442" y1="132" y2="136" />
+				<line id="99-458-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="458" x2="458" y1="132" y2="136" />
+				<line id="100-474-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="474" x2="474" y1="132" y2="136" />
+				<line id="101-489-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="489" x2="489" y1="132" y2="136" />
+				<line id="102-505-132" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="505" x2="505" y1="132" y2="136" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="103-51-118" x="51" y="127">MIAA_NOSP7</text>
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="104-51-118" x="51" y="127">MIAA_NOSP7</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect height="6" id="105-52-165" style="fill: rgb(46,139,87); fill-opacity: 1.0; stroke: rgb(46,139,87); stroke-opacity: 1.0; stroke-width: 1" width="170" x="52" y="165" />
+				<rect height="6" id="106-52-165" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="170" x="52" y="165" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="107-52-153" x="52" y="159">IPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="108-56-185" style="fill: rgb(0,191,255); fill-opacity: 1.0; stroke: rgb(0,191,255); stroke-opacity: 1.0; stroke-width: 1" width="90" x="56" y="185" />
+				<rect height="6" id="109-56-185" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="90" x="56" y="185" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="110-56-173" x="56" y="179">M1</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="111-58-205" style="fill: rgb(255,255,224); fill-opacity: 1.0; stroke: rgb(255,255,224); stroke-opacity: 1.0; stroke-width: 1" width="33" x="58" y="205" />
+				<rect height="6" id="112-58-205" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="58" y="205" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="113-58-193" x="58" y="199">M16</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="114-91-225" style="fill: rgb(85,107,47); fill-opacity: 1.0; stroke: rgb(85,107,47); stroke-opacity: 1.0; stroke-width: 1" width="65" x="91" y="225" />
+				<rect height="6" id="115-91-225" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="65" x="91" y="225" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="116-91-213" x="91" y="219">M5</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="117-105-205" style="fill: rgb(255,160,122); fill-opacity: 1.0; stroke: rgb(255,160,122); stroke-opacity: 1.0; stroke-width: 1" width="386" x="105" y="205" />
+				<rect height="6" id="118-105-205" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="386" x="105" y="205" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="119-105-193" x="105" y="199">IPPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="120-244-165" style="fill: rgb(122,255,0); fill-opacity: 1.0; stroke: rgb(122,255,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="244" y="165" />
+				<rect height="6" id="121-244-165" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="244" y="165" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="122-244-153" x="244" y="159">M17</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="123-278-185" style="fill: rgb(255,228,225); fill-opacity: 1.0; stroke: rgb(255,228,225); stroke-opacity: 1.0; stroke-width: 1" width="33" x="278" y="185" />
+				<rect height="6" id="124-278-185" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="278" y="185" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="125-278-173" x="278" y="179">M7</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="126-343-165" style="fill: rgb(138,43,226); fill-opacity: 1.0; stroke: rgb(138,43,226); stroke-opacity: 1.0; stroke-width: 1" width="52" x="343" y="165" />
+				<rect height="6" id="127-343-165" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="52" x="343" y="165" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="128-343-153" x="343" y="159">M3</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="129-431-165" style="fill: rgb(128,128,128); fill-opacity: 1.0; stroke: rgb(128,128,128); stroke-opacity: 1.0; stroke-width: 1" width="46" x="431" y="165" />
+				<rect height="6" id="130-431-165" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="46" x="431" y="165" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="131-431-153" x="431" y="159">M4</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<line id="132-50-253" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="548" y1="253" y2="253" />
+				<line id="133-50-253" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="253" y2="249" />
+				<line id="134-50-253" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="253" y2="257" />
+				<line id="135-548-253" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="548" x2="544" y1="253" y2="249" />
+				<line id="136-548-253" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="548" x2="544" y1="253" y2="257" />
+				<line id="137-206-249" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="206" x2="206" y1="249" y2="257" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="138-197-256" x="197" y="265">100</text>
+				<line id="139-363-249" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="363" x2="363" y1="249" y2="257" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="140-354-256" x="354" y="265">200</text>
+				<line id="141-521-249" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="521" x2="521" y1="249" y2="257" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="142-512-256" x="512" y="265">300</text>
+				<line id="143-64-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="64" x2="64" y1="251" y2="255" />
+				<line id="144-80-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="80" x2="80" y1="251" y2="255" />
+				<line id="145-96-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="96" x2="96" y1="251" y2="255" />
+				<line id="146-111-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="111" x2="111" y1="251" y2="255" />
+				<line id="147-127-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="127" x2="127" y1="251" y2="255" />
+				<line id="148-143-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="143" x2="143" y1="251" y2="255" />
+				<line id="149-159-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="159" x2="159" y1="251" y2="255" />
+				<line id="150-174-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="174" x2="174" y1="251" y2="255" />
+				<line id="151-190-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="190" x2="190" y1="251" y2="255" />
+				<line id="152-222-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="222" x2="222" y1="251" y2="255" />
+				<line id="153-237-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="237" x2="237" y1="251" y2="255" />
+				<line id="154-253-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="253" x2="253" y1="251" y2="255" />
+				<line id="155-269-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="269" x2="269" y1="251" y2="255" />
+				<line id="156-285-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="285" x2="285" y1="251" y2="255" />
+				<line id="157-300-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="300" x2="300" y1="251" y2="255" />
+				<line id="158-316-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="316" x2="316" y1="251" y2="255" />
+				<line id="159-332-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="332" x2="332" y1="251" y2="255" />
+				<line id="160-348-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="348" x2="348" y1="251" y2="255" />
+				<line id="161-379-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="379" x2="379" y1="251" y2="255" />
+				<line id="162-395-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="395" x2="395" y1="251" y2="255" />
+				<line id="163-411-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="411" x2="411" y1="251" y2="255" />
+				<line id="164-426-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="426" x2="426" y1="251" y2="255" />
+				<line id="165-442-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="442" x2="442" y1="251" y2="255" />
+				<line id="166-458-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="458" x2="458" y1="251" y2="255" />
+				<line id="167-474-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="474" x2="474" y1="251" y2="255" />
+				<line id="168-489-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="489" x2="489" y1="251" y2="255" />
+				<line id="169-505-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="505" x2="505" y1="251" y2="255" />
+				<line id="170-537-251" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="537" x2="537" y1="251" y2="255" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="171-51-237" x="51" y="246">MIAA_ECOLI</text>
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="172-51-237" x="51" y="246">MIAA_ECOLI</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect height="6" id="173-64-284" style="fill: rgb(46,139,87); fill-opacity: 1.0; stroke: rgb(46,139,87); stroke-opacity: 1.0; stroke-width: 1" width="175" x="64" y="284" />
+				<rect height="6" id="174-64-284" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="175" x="64" y="284" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="175-64-272" x="64" y="278">IPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="176-69-304" style="fill: rgb(0,191,255); fill-opacity: 1.0; stroke: rgb(0,191,255); stroke-opacity: 1.0; stroke-width: 1" width="90" x="69" y="304" />
+				<rect height="6" id="177-69-304" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="90" x="69" y="304" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="178-69-292" x="69" y="298">M1</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="179-70-324" style="fill: rgb(255,255,224); fill-opacity: 1.0; stroke: rgb(255,255,224); stroke-opacity: 1.0; stroke-width: 1" width="34" x="70" y="324" />
+				<rect height="6" id="180-70-324" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="34" x="70" y="324" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="181-70-312" x="70" y="318">M16</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="182-104-344" style="fill: rgb(85,107,47); fill-opacity: 1.0; stroke: rgb(85,107,47); stroke-opacity: 1.0; stroke-width: 1" width="64" x="104" y="344" />
+				<rect height="6" id="183-104-344" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="64" x="104" y="344" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="184-104-332" x="104" y="338">M5</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="185-118-324" style="fill: rgb(255,160,122); fill-opacity: 1.0; stroke: rgb(255,160,122); stroke-opacity: 1.0; stroke-width: 1" width="401" x="118" y="324" />
+				<rect height="6" id="186-118-324" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="401" x="118" y="324" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="187-118-312" x="118" y="318">IPPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="188-171-304" style="fill: rgb(189,183,107); fill-opacity: 1.0; stroke: rgb(189,183,107); stroke-opacity: 1.0; stroke-width: 1" width="54" x="171" y="304" />
+				<rect height="6" id="189-171-304" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="54" x="171" y="304" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="190-171-292" x="171" y="298">M2</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="191-264-284" style="fill: rgb(122,255,0); fill-opacity: 1.0; stroke: rgb(122,255,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="264" y="284" />
+				<rect height="6" id="192-264-284" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="264" y="284" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="193-264-272" x="264" y="278">M17</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="194-299-284" style="fill: rgb(255,228,225); fill-opacity: 1.0; stroke: rgb(255,228,225); stroke-opacity: 1.0; stroke-width: 1" width="33" x="299" y="284" />
+				<rect height="6" id="195-299-284" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="299" y="284" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="196-299-272" x="299" y="278">M7</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="197-368-284" style="fill: rgb(138,43,226); fill-opacity: 1.0; stroke: rgb(138,43,226); stroke-opacity: 1.0; stroke-width: 1" width="52" x="368" y="284" />
+				<rect height="6" id="198-368-284" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="52" x="368" y="284" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="199-368-272" x="368" y="278">M3</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<line id="200-50-372" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="521" y1="372" y2="372" />
+				<line id="201-50-372" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="372" y2="368" />
+				<line id="202-50-372" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="372" y2="376" />
+				<line id="203-521-372" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="521" x2="517" y1="372" y2="368" />
+				<line id="204-521-372" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="521" x2="517" y1="372" y2="376" />
+				<line id="205-206-368" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="206" x2="206" y1="368" y2="376" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="206-197-375" x="197" y="384">100</text>
+				<line id="207-363-368" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="363" x2="363" y1="368" y2="376" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="208-354-375" x="354" y="384">200</text>
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="209-512-375" x="512" y="384">300</text>
+				<line id="210-64-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="64" x2="64" y1="370" y2="374" />
+				<line id="211-80-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="80" x2="80" y1="370" y2="374" />
+				<line id="212-96-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="96" x2="96" y1="370" y2="374" />
+				<line id="213-111-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="111" x2="111" y1="370" y2="374" />
+				<line id="214-127-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="127" x2="127" y1="370" y2="374" />
+				<line id="215-143-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="143" x2="143" y1="370" y2="374" />
+				<line id="216-159-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="159" x2="159" y1="370" y2="374" />
+				<line id="217-174-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="174" x2="174" y1="370" y2="374" />
+				<line id="218-190-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="190" x2="190" y1="370" y2="374" />
+				<line id="219-222-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="222" x2="222" y1="370" y2="374" />
+				<line id="220-237-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="237" x2="237" y1="370" y2="374" />
+				<line id="221-253-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="253" x2="253" y1="370" y2="374" />
+				<line id="222-269-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="269" x2="269" y1="370" y2="374" />
+				<line id="223-285-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="285" x2="285" y1="370" y2="374" />
+				<line id="224-300-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="300" x2="300" y1="370" y2="374" />
+				<line id="225-316-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="316" x2="316" y1="370" y2="374" />
+				<line id="226-332-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="332" x2="332" y1="370" y2="374" />
+				<line id="227-348-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="348" x2="348" y1="370" y2="374" />
+				<line id="228-379-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="379" x2="379" y1="370" y2="374" />
+				<line id="229-395-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="395" x2="395" y1="370" y2="374" />
+				<line id="230-411-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="411" x2="411" y1="370" y2="374" />
+				<line id="231-426-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="426" x2="426" y1="370" y2="374" />
+				<line id="232-442-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="442" x2="442" y1="370" y2="374" />
+				<line id="233-458-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="458" x2="458" y1="370" y2="374" />
+				<line id="234-474-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="474" x2="474" y1="370" y2="374" />
+				<line id="235-489-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="489" x2="489" y1="370" y2="374" />
+				<line id="236-505-370" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="505" x2="505" y1="370" y2="374" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="237-51-356" x="51" y="365">MIAA_PROMA</text>
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="238-51-356" x="51" y="365">MIAA_PROMA</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect height="6" id="239-58-403" style="fill: rgb(46,139,87); fill-opacity: 1.0; stroke: rgb(46,139,87); stroke-opacity: 1.0; stroke-width: 1" width="168" x="58" y="403" />
+				<rect height="6" id="240-58-403" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="168" x="58" y="403" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="241-58-391" x="58" y="397">IPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="242-63-423" style="fill: rgb(0,191,255); fill-opacity: 1.0; stroke: rgb(0,191,255); stroke-opacity: 1.0; stroke-width: 1" width="89" x="63" y="423" />
+				<rect height="6" id="243-63-423" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="89" x="63" y="423" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="244-63-411" x="63" y="417">M1</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="245-64-443" style="fill: rgb(255,255,224); fill-opacity: 1.0; stroke: rgb(255,255,224); stroke-opacity: 1.0; stroke-width: 1" width="33" x="64" y="443" />
+				<rect height="6" id="246-64-443" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="64" y="443" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="247-64-431" x="64" y="437">M16</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="248-97-463" style="fill: rgb(85,107,47); fill-opacity: 1.0; stroke: rgb(85,107,47); stroke-opacity: 1.0; stroke-width: 1" width="65" x="97" y="463" />
+				<rect height="6" id="249-97-463" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="65" x="97" y="463" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="250-97-451" x="97" y="457">M5</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="251-111-443" style="fill: rgb(255,160,122); fill-opacity: 1.0; stroke: rgb(255,160,122); stroke-opacity: 1.0; stroke-width: 1" width="386" x="111" y="443" />
+				<rect height="6" id="252-111-443" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="386" x="111" y="443" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="253-111-431" x="111" y="437">IPPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="254-165-423" style="fill: rgb(189,183,107); fill-opacity: 1.0; stroke: rgb(189,183,107); stroke-opacity: 1.0; stroke-width: 1" width="54" x="165" y="423" />
+				<rect height="6" id="255-165-423" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="54" x="165" y="423" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="256-165-411" x="165" y="417">M2</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="257-253-403" style="fill: rgb(122,255,0); fill-opacity: 1.0; stroke: rgb(122,255,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="253" y="403" />
+				<rect height="6" id="258-253-403" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="253" y="403" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="259-253-391" x="253" y="397">M17</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="260-288-403" style="fill: rgb(255,228,225); fill-opacity: 1.0; stroke: rgb(255,228,225); stroke-opacity: 1.0; stroke-width: 1" width="33" x="288" y="403" />
+				<rect height="6" id="261-288-403" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="288" y="403" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="262-288-391" x="288" y="397">M7</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="263-437-403" style="fill: rgb(128,128,128); fill-opacity: 1.0; stroke: rgb(128,128,128); stroke-opacity: 1.0; stroke-width: 1" width="46" x="437" y="403" />
+				<rect height="6" id="264-437-403" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="46" x="437" y="403" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="265-437-391" x="437" y="397">M4</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<line id="266-50-491" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="526" y1="491" y2="491" />
+				<line id="267-50-491" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="491" y2="487" />
+				<line id="268-50-491" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="491" y2="495" />
+				<line id="269-526-491" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="526" x2="522" y1="491" y2="487" />
+				<line id="270-526-491" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="526" x2="522" y1="491" y2="495" />
+				<line id="271-206-487" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="206" x2="206" y1="487" y2="495" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="272-197-494" x="197" y="503">100</text>
+				<line id="273-363-487" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="363" x2="363" y1="487" y2="495" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="274-354-494" x="354" y="503">200</text>
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="275-512-494" x="512" y="503">300</text>
+				<line id="276-64-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="64" x2="64" y1="489" y2="493" />
+				<line id="277-80-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="80" x2="80" y1="489" y2="493" />
+				<line id="278-96-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="96" x2="96" y1="489" y2="493" />
+				<line id="279-111-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="111" x2="111" y1="489" y2="493" />
+				<line id="280-127-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="127" x2="127" y1="489" y2="493" />
+				<line id="281-143-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="143" x2="143" y1="489" y2="493" />
+				<line id="282-159-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="159" x2="159" y1="489" y2="493" />
+				<line id="283-174-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="174" x2="174" y1="489" y2="493" />
+				<line id="284-190-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="190" x2="190" y1="489" y2="493" />
+				<line id="285-222-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="222" x2="222" y1="489" y2="493" />
+				<line id="286-237-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="237" x2="237" y1="489" y2="493" />
+				<line id="287-253-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="253" x2="253" y1="489" y2="493" />
+				<line id="288-269-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="269" x2="269" y1="489" y2="493" />
+				<line id="289-285-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="285" x2="285" y1="489" y2="493" />
+				<line id="290-300-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="300" x2="300" y1="489" y2="493" />
+				<line id="291-316-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="316" x2="316" y1="489" y2="493" />
+				<line id="292-332-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="332" x2="332" y1="489" y2="493" />
+				<line id="293-348-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="348" x2="348" y1="489" y2="493" />
+				<line id="294-379-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="379" x2="379" y1="489" y2="493" />
+				<line id="295-395-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="395" x2="395" y1="489" y2="493" />
+				<line id="296-411-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="411" x2="411" y1="489" y2="493" />
+				<line id="297-426-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="426" x2="426" y1="489" y2="493" />
+				<line id="298-442-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="442" x2="442" y1="489" y2="493" />
+				<line id="299-458-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="458" x2="458" y1="489" y2="493" />
+				<line id="300-474-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="474" x2="474" y1="489" y2="493" />
+				<line id="301-489-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="489" x2="489" y1="489" y2="493" />
+				<line id="302-505-489" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="505" x2="505" y1="489" y2="493" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="303-51-475" x="51" y="484">MIAA_GLOVI</text>
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="304-51-475" x="51" y="484">MIAA_GLOVI</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect height="6" id="305-52-522" style="fill: rgb(46,139,87); fill-opacity: 1.0; stroke: rgb(46,139,87); stroke-opacity: 1.0; stroke-width: 1" width="168" x="52" y="522" />
+				<rect height="6" id="306-52-522" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="168" x="52" y="522" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="307-52-510" x="52" y="516">IPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="308-55-542" style="fill: rgb(176,196,222); fill-opacity: 1.0; stroke: rgb(176,196,222); stroke-opacity: 1.0; stroke-width: 1" width="464" x="55" y="542" />
+				<rect height="6" id="309-55-542" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="464" x="55" y="542" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="310-55-530" x="55" y="536">AAA_17</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="311-56-562" style="fill: rgb(0,191,255); fill-opacity: 1.0; stroke: rgb(0,191,255); stroke-opacity: 1.0; stroke-width: 1" width="90" x="56" y="562" />
+				<rect height="6" id="312-56-562" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="90" x="56" y="562" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="313-56-550" x="56" y="556">M1</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="314-58-582" style="fill: rgb(255,255,224); fill-opacity: 1.0; stroke: rgb(255,255,224); stroke-opacity: 1.0; stroke-width: 1" width="33" x="58" y="582" />
+				<rect height="6" id="315-58-582" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="58" y="582" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="316-58-570" x="58" y="576">M16</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="317-91-602" style="fill: rgb(85,107,47); fill-opacity: 1.0; stroke: rgb(85,107,47); stroke-opacity: 1.0; stroke-width: 1" width="65" x="91" y="602" />
+				<rect height="6" id="318-91-602" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="65" x="91" y="602" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="319-91-590" x="91" y="596">M5</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="320-105-582" style="fill: rgb(255,160,122); fill-opacity: 1.0; stroke: rgb(255,160,122); stroke-opacity: 1.0; stroke-width: 1" width="389" x="105" y="582" />
+				<rect height="6" id="321-105-582" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="389" x="105" y="582" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="322-105-570" x="105" y="576">IPPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="323-159-562" style="fill: rgb(189,183,107); fill-opacity: 1.0; stroke: rgb(189,183,107); stroke-opacity: 1.0; stroke-width: 1" width="53" x="159" y="562" />
+				<rect height="6" id="324-159-562" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="53" x="159" y="562" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="325-159-550" x="159" y="556">M2</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="326-247-522" style="fill: rgb(122,255,0); fill-opacity: 1.0; stroke: rgb(122,255,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="247" y="522" />
+				<rect height="6" id="327-247-522" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="247" y="522" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="328-247-510" x="247" y="516">M17</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="329-281-562" style="fill: rgb(255,228,225); fill-opacity: 1.0; stroke: rgb(255,228,225); stroke-opacity: 1.0; stroke-width: 1" width="34" x="281" y="562" />
+				<rect height="6" id="330-281-562" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="34" x="281" y="562" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="331-281-550" x="281" y="556">M7</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="332-346-522" style="fill: rgb(138,43,226); fill-opacity: 1.0; stroke: rgb(138,43,226); stroke-opacity: 1.0; stroke-width: 1" width="52" x="346" y="522" />
+				<rect height="6" id="333-346-522" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="52" x="346" y="522" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="334-346-510" x="346" y="516">M3</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="335-434-522" style="fill: rgb(128,128,128); fill-opacity: 1.0; stroke: rgb(128,128,128); stroke-opacity: 1.0; stroke-width: 1" width="46" x="434" y="522" />
+				<rect height="6" id="336-434-522" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="46" x="434" y="522" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="337-434-510" x="434" y="516">M4</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<line id="338-50-630" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="532" y1="630" y2="630" />
+				<line id="339-50-630" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="630" y2="626" />
+				<line id="340-50-630" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="630" y2="634" />
+				<line id="341-532-630" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="532" x2="528" y1="630" y2="626" />
+				<line id="342-532-630" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="532" x2="528" y1="630" y2="634" />
+				<line id="343-206-626" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="206" x2="206" y1="626" y2="634" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="344-197-633" x="197" y="642">100</text>
+				<line id="345-363-626" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="363" x2="363" y1="626" y2="634" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="346-354-633" x="354" y="642">200</text>
+				<line id="347-521-626" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="521" x2="521" y1="626" y2="634" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="348-512-633" x="512" y="642">300</text>
+				<line id="349-64-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="64" x2="64" y1="628" y2="632" />
+				<line id="350-80-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="80" x2="80" y1="628" y2="632" />
+				<line id="351-96-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="96" x2="96" y1="628" y2="632" />
+				<line id="352-111-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="111" x2="111" y1="628" y2="632" />
+				<line id="353-127-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="127" x2="127" y1="628" y2="632" />
+				<line id="354-143-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="143" x2="143" y1="628" y2="632" />
+				<line id="355-159-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="159" x2="159" y1="628" y2="632" />
+				<line id="356-174-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="174" x2="174" y1="628" y2="632" />
+				<line id="357-190-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="190" x2="190" y1="628" y2="632" />
+				<line id="358-222-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="222" x2="222" y1="628" y2="632" />
+				<line id="359-237-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="237" x2="237" y1="628" y2="632" />
+				<line id="360-253-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="253" x2="253" y1="628" y2="632" />
+				<line id="361-269-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="269" x2="269" y1="628" y2="632" />
+				<line id="362-285-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="285" x2="285" y1="628" y2="632" />
+				<line id="363-300-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="300" x2="300" y1="628" y2="632" />
+				<line id="364-316-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="316" x2="316" y1="628" y2="632" />
+				<line id="365-332-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="332" x2="332" y1="628" y2="632" />
+				<line id="366-348-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="348" x2="348" y1="628" y2="632" />
+				<line id="367-379-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="379" x2="379" y1="628" y2="632" />
+				<line id="368-395-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="395" x2="395" y1="628" y2="632" />
+				<line id="369-411-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="411" x2="411" y1="628" y2="632" />
+				<line id="370-426-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="426" x2="426" y1="628" y2="632" />
+				<line id="371-442-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="442" x2="442" y1="628" y2="632" />
+				<line id="372-458-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="458" x2="458" y1="628" y2="632" />
+				<line id="373-474-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="474" x2="474" y1="628" y2="632" />
+				<line id="374-489-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="489" x2="489" y1="628" y2="632" />
+				<line id="375-505-628" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="505" x2="505" y1="628" y2="632" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="376-51-614" x="51" y="623">MIAA_SYNE7</text>
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="377-51-614" x="51" y="623">MIAA_SYNE7</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect height="6" id="378-59-661" style="fill: rgb(46,139,87); fill-opacity: 1.0; stroke: rgb(46,139,87); stroke-opacity: 1.0; stroke-width: 1" width="177" x="59" y="661" />
+				<rect height="6" id="379-59-661" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="177" x="59" y="661" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="380-59-649" x="59" y="655">IPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="381-63-681" style="fill: rgb(176,196,222); fill-opacity: 1.0; stroke: rgb(176,196,222); stroke-opacity: 1.0; stroke-width: 1" width="198" x="63" y="681" />
+				<rect height="6" id="382-63-681" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="198" x="63" y="681" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="383-63-669" x="63" y="675">AAA_17</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="384-64-701" style="fill: rgb(0,191,255); fill-opacity: 1.0; stroke: rgb(0,191,255); stroke-opacity: 1.0; stroke-width: 1" width="90" x="64" y="701" />
+				<rect height="6" id="385-64-701" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="90" x="64" y="701" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="386-64-689" x="64" y="695">M1</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="387-66-721" style="fill: rgb(255,255,224); fill-opacity: 1.0; stroke: rgb(255,255,224); stroke-opacity: 1.0; stroke-width: 1" width="33" x="66" y="721" />
+				<rect height="6" id="388-66-721" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="66" y="721" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="389-66-709" x="66" y="715">M16</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="390-99-741" style="fill: rgb(85,107,47); fill-opacity: 1.0; stroke: rgb(85,107,47); stroke-opacity: 1.0; stroke-width: 1" width="64" x="99" y="741" />
+				<rect height="6" id="391-99-741" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="64" x="99" y="741" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="392-99-729" x="99" y="735">M5</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="393-113-721" style="fill: rgb(255,160,122); fill-opacity: 1.0; stroke: rgb(255,160,122); stroke-opacity: 1.0; stroke-width: 1" width="386" x="113" y="721" />
+				<rect height="6" id="394-113-721" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="386" x="113" y="721" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="395-113-709" x="113" y="715">IPPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="396-167-701" style="fill: rgb(189,183,107); fill-opacity: 1.0; stroke: rgb(189,183,107); stroke-opacity: 1.0; stroke-width: 1" width="53" x="167" y="701" />
+				<rect height="6" id="397-167-701" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="53" x="167" y="701" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="398-167-689" x="167" y="695">M2</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="399-255-661" style="fill: rgb(122,255,0); fill-opacity: 1.0; stroke: rgb(122,255,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="255" y="661" />
+				<rect height="6" id="400-255-661" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="255" y="661" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="401-255-649" x="255" y="655">M17</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="402-289-681" style="fill: rgb(255,228,225); fill-opacity: 1.0; stroke: rgb(255,228,225); stroke-opacity: 1.0; stroke-width: 1" width="33" x="289" y="681" />
+				<rect height="6" id="403-289-681" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="289" y="681" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="404-289-669" x="289" y="675">M7</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="405-351-661" style="fill: rgb(138,43,226); fill-opacity: 1.0; stroke: rgb(138,43,226); stroke-opacity: 1.0; stroke-width: 1" width="52" x="351" y="661" />
+				<rect height="6" id="406-351-661" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="52" x="351" y="661" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="407-351-649" x="351" y="655">M3</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<line id="408-50-769" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="537" y1="769" y2="769" />
+				<line id="409-50-769" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="769" y2="765" />
+				<line id="410-50-769" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="769" y2="773" />
+				<line id="411-537-769" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="537" x2="533" y1="769" y2="765" />
+				<line id="412-537-769" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="537" x2="533" y1="769" y2="773" />
+				<line id="413-206-765" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="206" x2="206" y1="765" y2="773" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="414-197-772" x="197" y="781">100</text>
+				<line id="415-363-765" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="363" x2="363" y1="765" y2="773" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="416-354-772" x="354" y="781">200</text>
+				<line id="417-521-765" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="521" x2="521" y1="765" y2="773" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="418-512-772" x="512" y="781">300</text>
+				<line id="419-64-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="64" x2="64" y1="767" y2="771" />
+				<line id="420-80-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="80" x2="80" y1="767" y2="771" />
+				<line id="421-96-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="96" x2="96" y1="767" y2="771" />
+				<line id="422-111-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="111" x2="111" y1="767" y2="771" />
+				<line id="423-127-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="127" x2="127" y1="767" y2="771" />
+				<line id="424-143-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="143" x2="143" y1="767" y2="771" />
+				<line id="425-159-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="159" x2="159" y1="767" y2="771" />
+				<line id="426-174-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="174" x2="174" y1="767" y2="771" />
+				<line id="427-190-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="190" x2="190" y1="767" y2="771" />
+				<line id="428-222-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="222" x2="222" y1="767" y2="771" />
+				<line id="429-237-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="237" x2="237" y1="767" y2="771" />
+				<line id="430-253-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="253" x2="253" y1="767" y2="771" />
+				<line id="431-269-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="269" x2="269" y1="767" y2="771" />
+				<line id="432-285-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="285" x2="285" y1="767" y2="771" />
+				<line id="433-300-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="300" x2="300" y1="767" y2="771" />
+				<line id="434-316-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="316" x2="316" y1="767" y2="771" />
+				<line id="435-332-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="332" x2="332" y1="767" y2="771" />
+				<line id="436-348-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="348" x2="348" y1="767" y2="771" />
+				<line id="437-379-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="379" x2="379" y1="767" y2="771" />
+				<line id="438-395-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="395" x2="395" y1="767" y2="771" />
+				<line id="439-411-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="411" x2="411" y1="767" y2="771" />
+				<line id="440-426-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="426" x2="426" y1="767" y2="771" />
+				<line id="441-442-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="442" x2="442" y1="767" y2="771" />
+				<line id="442-458-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="458" x2="458" y1="767" y2="771" />
+				<line id="443-474-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="474" x2="474" y1="767" y2="771" />
+				<line id="444-489-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="489" x2="489" y1="767" y2="771" />
+				<line id="445-505-767" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="505" x2="505" y1="767" y2="771" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="446-51-753" x="51" y="762">D8FY86_9CYAN</text>
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="447-51-753" x="51" y="762">D8FY86_9CYAN</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect height="6" id="448-58-800" style="fill: rgb(46,139,87); fill-opacity: 1.0; stroke: rgb(46,139,87); stroke-opacity: 1.0; stroke-width: 1" width="172" x="58" y="800" />
+				<rect height="6" id="449-58-800" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="172" x="58" y="800" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="450-58-788" x="58" y="794">IPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="451-63-820" style="fill: rgb(0,191,255); fill-opacity: 1.0; stroke: rgb(0,191,255); stroke-opacity: 1.0; stroke-width: 1" width="89" x="63" y="820" />
+				<rect height="6" id="452-63-820" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="89" x="63" y="820" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="453-63-808" x="63" y="814">M1</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="454-64-840" style="fill: rgb(255,255,224); fill-opacity: 1.0; stroke: rgb(255,255,224); stroke-opacity: 1.0; stroke-width: 1" width="33" x="64" y="840" />
+				<rect height="6" id="455-64-840" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="64" y="840" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="456-64-828" x="64" y="834">M16</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="457-97-860" style="fill: rgb(85,107,47); fill-opacity: 1.0; stroke: rgb(85,107,47); stroke-opacity: 1.0; stroke-width: 1" width="65" x="97" y="860" />
+				<rect height="6" id="458-97-860" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="65" x="97" y="860" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="459-97-848" x="97" y="854">M5</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="460-111-840" style="fill: rgb(255,160,122); fill-opacity: 1.0; stroke: rgb(255,160,122); stroke-opacity: 1.0; stroke-width: 1" width="388" x="111" y="840" />
+				<rect height="6" id="461-111-840" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="388" x="111" y="840" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="462-111-828" x="111" y="834">IPPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="463-165-820" style="fill: rgb(189,183,107); fill-opacity: 1.0; stroke: rgb(189,183,107); stroke-opacity: 1.0; stroke-width: 1" width="54" x="165" y="820" />
+				<rect height="6" id="464-165-820" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="54" x="165" y="820" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="465-165-808" x="165" y="814">M2</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="466-253-800" style="fill: rgb(122,255,0); fill-opacity: 1.0; stroke: rgb(122,255,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="253" y="800" />
+				<rect height="6" id="467-253-800" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="253" y="800" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="468-253-788" x="253" y="794">M17</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="469-288-800" style="fill: rgb(255,228,225); fill-opacity: 1.0; stroke: rgb(255,228,225); stroke-opacity: 1.0; stroke-width: 1" width="33" x="288" y="800" />
+				<rect height="6" id="470-288-800" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="288" y="800" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="471-288-788" x="288" y="794">M7</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="472-351-800" style="fill: rgb(138,43,226); fill-opacity: 1.0; stroke: rgb(138,43,226); stroke-opacity: 1.0; stroke-width: 1" width="52" x="351" y="800" />
+				<rect height="6" id="473-351-800" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="52" x="351" y="800" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="474-351-788" x="351" y="794">M3</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="475-439-800" style="fill: rgb(128,128,128); fill-opacity: 1.0; stroke: rgb(128,128,128); stroke-opacity: 1.0; stroke-width: 1" width="46" x="439" y="800" />
+				<rect height="6" id="476-439-800" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="46" x="439" y="800" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="477-439-788" x="439" y="794">M4</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<line id="478-50-888" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="850" y1="888" y2="888" />
+				<line id="479-50-888" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="888" y2="884" />
+				<line id="480-50-888" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="50" x2="54" y1="888" y2="892" />
+				<line id="481-850-888" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="850" x2="846" y1="888" y2="884" />
+				<line id="482-850-888" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="850" x2="846" y1="888" y2="892" />
+				<line id="483-206-884" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="206" x2="206" y1="884" y2="892" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="484-197-891" x="197" y="900">100</text>
+				<line id="485-363-884" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="363" x2="363" y1="884" y2="892" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="486-354-891" x="354" y="900">200</text>
+				<line id="487-521-884" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="521" x2="521" y1="884" y2="892" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="488-512-891" x="512" y="900">300</text>
+				<line id="489-678-884" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="678" x2="678" y1="884" y2="892" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="490-669-891" x="669" y="900">400</text>
+				<line id="491-836-884" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="836" x2="836" y1="884" y2="892" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="492-827-891" x="827" y="900">500</text>
+				<line id="493-64-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="64" x2="64" y1="886" y2="890" />
+				<line id="494-80-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="80" x2="80" y1="886" y2="890" />
+				<line id="495-96-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="96" x2="96" y1="886" y2="890" />
+				<line id="496-111-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="111" x2="111" y1="886" y2="890" />
+				<line id="497-127-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="127" x2="127" y1="886" y2="890" />
+				<line id="498-143-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="143" x2="143" y1="886" y2="890" />
+				<line id="499-159-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="159" x2="159" y1="886" y2="890" />
+				<line id="500-174-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="174" x2="174" y1="886" y2="890" />
+				<line id="501-190-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="190" x2="190" y1="886" y2="890" />
+				<line id="502-222-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="222" x2="222" y1="886" y2="890" />
+				<line id="503-237-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="237" x2="237" y1="886" y2="890" />
+				<line id="504-253-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="253" x2="253" y1="886" y2="890" />
+				<line id="505-269-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="269" x2="269" y1="886" y2="890" />
+				<line id="506-285-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="285" x2="285" y1="886" y2="890" />
+				<line id="507-300-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="300" x2="300" y1="886" y2="890" />
+				<line id="508-316-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="316" x2="316" y1="886" y2="890" />
+				<line id="509-332-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="332" x2="332" y1="886" y2="890" />
+				<line id="510-348-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="348" x2="348" y1="886" y2="890" />
+				<line id="511-379-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="379" x2="379" y1="886" y2="890" />
+				<line id="512-395-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="395" x2="395" y1="886" y2="890" />
+				<line id="513-411-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="411" x2="411" y1="886" y2="890" />
+				<line id="514-426-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="426" x2="426" y1="886" y2="890" />
+				<line id="515-442-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="442" x2="442" y1="886" y2="890" />
+				<line id="516-458-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="458" x2="458" y1="886" y2="890" />
+				<line id="517-474-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="474" x2="474" y1="886" y2="890" />
+				<line id="518-489-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="489" x2="489" y1="886" y2="890" />
+				<line id="519-505-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="505" x2="505" y1="886" y2="890" />
+				<line id="520-537-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="537" x2="537" y1="886" y2="890" />
+				<line id="521-552-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="552" x2="552" y1="886" y2="890" />
+				<line id="522-568-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="568" x2="568" y1="886" y2="890" />
+				<line id="523-584-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="584" x2="584" y1="886" y2="890" />
+				<line id="524-600-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="600" x2="600" y1="886" y2="890" />
+				<line id="525-615-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="615" x2="615" y1="886" y2="890" />
+				<line id="526-631-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="631" x2="631" y1="886" y2="890" />
+				<line id="527-647-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="647" x2="647" y1="886" y2="890" />
+				<line id="528-663-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="663" x2="663" y1="886" y2="890" />
+				<line id="529-694-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="694" x2="694" y1="886" y2="890" />
+				<line id="530-710-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="710" x2="710" y1="886" y2="890" />
+				<line id="531-726-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="726" x2="726" y1="886" y2="890" />
+				<line id="532-741-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="741" x2="741" y1="886" y2="890" />
+				<line id="533-757-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="757" x2="757" y1="886" y2="890" />
+				<line id="534-773-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="773" x2="773" y1="886" y2="890" />
+				<line id="535-789-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="789" x2="789" y1="886" y2="890" />
+				<line id="536-804-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="804" x2="804" y1="886" y2="890" />
+				<line id="537-820-886" style="fill: rgb(0,0,0); fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-linecap: square; stroke-opacity: 1.0; stroke-width: 1" x1="820" x2="820" y1="886" y2="890" />
+				<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="538-51-872" x="51" y="881">B7FQX4_PHATC</text>
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="11" font-weight="normal" id="539-51-872" x="51" y="881">B7FQX4_PHATC</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect height="6" id="540-151-919" style="fill: rgb(46,139,87); fill-opacity: 1.0; stroke: rgb(46,139,87); stroke-opacity: 1.0; stroke-width: 1" width="156" x="151" y="919" />
+				<rect height="6" id="541-151-919" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="156" x="151" y="919" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="542-151-907" x="151" y="913">IPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="543-156-939" style="fill: rgb(0,191,255); fill-opacity: 1.0; stroke: rgb(0,191,255); stroke-opacity: 1.0; stroke-width: 1" width="89" x="156" y="939" />
+				<rect height="6" id="544-156-939" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="89" x="156" y="939" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="545-156-927" x="156" y="933">M1</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="546-157-959" style="fill: rgb(255,255,224); fill-opacity: 1.0; stroke: rgb(255,255,224); stroke-opacity: 1.0; stroke-width: 1" width="33" x="157" y="959" />
+				<rect height="6" id="547-157-959" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="157" y="959" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="548-157-947" x="157" y="953">M16</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="549-190-979" style="fill: rgb(85,107,47); fill-opacity: 1.0; stroke: rgb(85,107,47); stroke-opacity: 1.0; stroke-width: 1" width="65" x="190" y="979" />
+				<rect height="6" id="550-190-979" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="65" x="190" y="979" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="551-190-967" x="190" y="973">M5</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="552-204-959" style="fill: rgb(255,160,122); fill-opacity: 1.0; stroke: rgb(255,160,122); stroke-opacity: 1.0; stroke-width: 1" width="89" x="204" y="959" />
+				<rect height="6" id="553-204-959" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="89" x="204" y="959" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="554-204-947" x="204" y="953">IPPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="555-324-919" style="fill: rgb(255,160,122); fill-opacity: 1.0; stroke: rgb(255,160,122); stroke-opacity: 1.0; stroke-width: 1" width="381" x="324" y="919" />
+				<rect height="6" id="556-324-919" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="381" x="324" y="919" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="557-324-907" x="324" y="913">IPPT</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="558-379-939" style="fill: rgb(255,204,0); fill-opacity: 1.0; stroke: rgb(255,204,0); stroke-opacity: 1.0; stroke-width: 1" width="46" x="379" y="939" />
+				<rect height="6" id="559-379-939" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="46" x="379" y="939" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="560-379-927" x="379" y="933">M15</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="561-464-939" style="fill: rgb(255,228,225); fill-opacity: 1.0; stroke: rgb(255,228,225); stroke-opacity: 1.0; stroke-width: 1" width="33" x="464" y="939" />
+				<rect height="6" id="562-464-939" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="33" x="464" y="939" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="563-464-927" x="464" y="933">M7</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="564-548-939" style="fill: rgb(138,43,226); fill-opacity: 1.0; stroke: rgb(138,43,226); stroke-opacity: 1.0; stroke-width: 1" width="52" x="548" y="939" />
+				<rect height="6" id="565-548-939" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="52" x="548" y="939" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="566-548-927" x="548" y="933">M3</text>
+		</g>
+		<g>
+			<g>
+				<rect height="6" id="567-647-939" style="fill: rgb(128,128,128); fill-opacity: 1.0; stroke: rgb(128,128,128); stroke-opacity: 1.0; stroke-width: 1" width="46" x="647" y="939" />
+				<rect height="6" id="568-647-939" style="fill: none; fill-opacity: 1.0; stroke: rgb(0,0,0); stroke-opacity: 1.0; stroke-width: 1" width="46" x="647" y="939" />
+			</g>
+			<text fill="rgb(0,0,0)" font="Helvetica" font-size="8" font-weight="normal" id="569-647-927" x="647" y="933">M4</text>
+		</g>
+	</g>
+	<g />
+	<!--
+	Generated using the Perl SVG Module V2.84
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+	-->
+</svg>
